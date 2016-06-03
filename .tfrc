@@ -1,0 +1,22 @@
+/addworld -Tlp SWMud swmud.org 6666
+/cleardone 1
+/histsize -l 10000
+/histsize -g 10000
+/isize 2
+/def key_nkpEnt = /dokey_newline
+/def key_nkp0 = mob
+/def key_nkp1 = sw
+/def key_nkp2 = s
+/def key_nkp3 = se
+/def key_nkp4 = w
+/def key_nkp5 = l
+/def key_nkp6 = e
+/def key_nkp7 = nw
+/def key_nkp8 = n
+/def key_nkp9 = ne
+/def key_nkp+ = d
+/def key_nkp- = u
+/def key_nkp* = hscan bg
+/def key_nkp. = rl
+/def key_nkp/ = blook
+
